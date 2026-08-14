@@ -1,0 +1,4 @@
+interface:
+  display_name: "Step 5: Technical Spec Assembly"
+  short_description: "Assemble verified outputs into the final technical spec"
+  default_prompt: "Use $data-agent-step5-compose-spec to assemble Steps 1 through 4 into the final technical specification."

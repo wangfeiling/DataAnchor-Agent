@@ -1,0 +1,4 @@
+interface:
+  display_name: "Step 1: Requirement Understanding"
+  short_description: "Deepen and split requirements without knowledge retrieval"
+  default_prompt: "Use $data-agent-step1-understand-requirements to deepen and split this requirement without searching the knowledge base."

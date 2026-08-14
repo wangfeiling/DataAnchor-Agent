@@ -1,0 +1,4 @@
+interface:
+  display_name: "Step 2: Hive Source Mapping"
+  short_description: "Map dimensions and metrics to verified Hive sources"
+  default_prompt: "Use $data-agent-step2-map-hive-sources to find Hive field sources and reusable metric definitions."

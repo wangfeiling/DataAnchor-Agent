@@ -1,0 +1,4 @@
+interface:
+  display_name: "Step 4: Implementation Design"
+  short_description: "Design Hive schema, transforms, scheduling, and tests"
+  default_prompt: "Use $data-agent-step4-design-implementation to turn the approved model decision into an executable Hive implementation design."

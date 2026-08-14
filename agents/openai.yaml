@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hive Data Agent Orchestrator"
+  short_description: "Route Hive data QA and five-step Spec workflows"
+  default_prompt: "Use $data-agent-orchestrate to turn this Hive data request into a verified answer or implementation-ready technical specification."

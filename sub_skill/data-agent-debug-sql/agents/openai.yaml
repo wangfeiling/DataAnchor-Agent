@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optional: Hive Debug SQL"
+  short_description: "Generate safe read-only Hive SQL validation checks"
+  default_prompt: "Use $data-agent-debug-sql to generate read-only Hive SQL checks for this data design."

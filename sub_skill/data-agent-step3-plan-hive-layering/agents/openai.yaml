@@ -1,0 +1,4 @@
+interface:
+  display_name: "Step 3: Hive Layering Design"
+  short_description: "Choose ODS-to-ADS placement and table changes"
+  default_prompt: "Use $data-agent-step3-plan-hive-layering to decide Hive layer placement, table changes, and upstream extensions."

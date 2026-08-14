@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Agent QA"
+  short_description: "Answer Hive metric, table, field, and lineage questions"
+  default_prompt: "Use $data-agent-answer-qa to answer this Hive data question with traceable evidence."
