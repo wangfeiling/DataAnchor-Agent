@@ -1,0 +1,201 @@
+session_id,mid_id,brand,model,operate_system,version_code,channel,during_time_1d,page_count_1d,dt
+e2ecb154-f793-4c6c-a808-e042869e99c7,mid_21,xiaomi,xiaomi 13,Android 12.0,v2.1.134,wandoujia,73112,7,2022-06-08
+a8bf45a1-a749-4236-9731-5d9fd3f55279,mid_207,vivo,vivo x90,Android 13.0,v2.1.134,vivo,59120,5,2022-06-08
+7896b386-a5bf-400c-9568-fbdb8d150db4,mid_397,xiaomi,xiaomi 13 Pro ,Android 13.0,v2.0.1,xiaomi,138951,9,2022-06-08
+47298fc7-05da-4b7b-9625-deb01017d3ea,mid_455,Redmi,Redmi k50,Android 13.0,v2.1.134,xiaomi,59032,5,2022-06-08
+21680f54-867a-448f-a1ae-8ba196be620f,mid_498,vivo,vivo x90,Android 13.0,v2.1.134,xiaomi,45691,4,2022-06-08
+5499d229-cb21-41af-a207-3fdec4bfc945,mid_224,xiaomi,xiaomi 12 ultra ,Android 12.0,v2.1.132,web,110074,9,2022-06-08
+8f6b40be-2bbb-46c6-b78c-9613d48d41d7,mid_350,OPPO,OPPO Remo8,Android 12.0,v2.1.132,oppo,53710,6,2022-06-08
+6ae75168-1e8c-4007-aff4-604ddf5a3e6d,mid_324,realme,realme Neo2,Android 13.0,v2.1.134,wandoujia,70515,5,2022-06-08
+38b5d0a2-ec08-4dbb-a9fe-f7efb5a7496d,mid_462,vivo,vivo x90,Android 12.0,v2.1.111,vivo,72571,7,2022-06-08
+6d244172-e2ad-4920-b656-6ecc496ffc15,mid_96,vivo,vivo x90,Android 13.0,v2.1.134,oppo,16513,1,2022-06-08
+9e2f09d7-2c49-4397-919f-c9e556fc9df1,mid_334,SAMSUNG,SAMSUNG Galaxy s22,Android 10.1,v2.1.134,360,98561,7,2022-06-08
+7cf81723-2bb8-47da-b9f6-53e7337c68f2,mid_197,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.132,360,136140,11,2022-06-08
+c250b86f-1263-4012-b55e-a6000647fe22,mid_338,Redmi,Redmi k50,Android 13.0,v2.1.132,oppo,46483,5,2022-06-08
+5a2443bb-79dd-4c2d-bfa2-ce7518f4a322,mid_271,iPhone,iPhone 14 Plus,iOS 13.3.1,v2.1.134,Appstore,92263,7,2022-06-08
+acc84f51-977e-4c1c-b75f-b6f527714920,mid_18,Redmi,Redmi k50,Android 13.0,v2.1.134,oppo,85066,7,2022-06-08
+f34ce394-49c4-41fb-b6ba-210f9e74bdc7,mid_472,iPhone,iPhone 14 Plus,iOS 13.2.3,v2.1.134,Appstore,34626,3,2022-06-08
+4ca43525-c45c-445d-bed4-f6f34d4dc68e,mid_34,realme,realme Neo2,Android 10.1,v2.1.134,oppo,102557,7,2022-06-08
+07c64e91-0b4c-4ca4-a3c7-a0d5e9bd0e48,mid_230,vivo,vivo x90,Android 13.0,v2.1.134,vivo,61540,5,2022-06-08
+97046812-7434-457a-8707-359928d64e7d,mid_82,vivo,vivo x90,Android 13.0,v2.1.134,xiaomi,37212,3,2022-06-08
+be38c331-0e1c-4989-a0bd-46d0cdd05056,mid_200,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,58051,5,2022-06-08
+37cba305-66db-42a5-b33e-6533b1151f42,mid_147,xiaomi,xiaomi 13 Pro ,Android 13.0,v2.1.134,oppo,33980,3,2022-06-08
+93d20e27-9c55-4546-a8cf-edfd2dda4a76,mid_247,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,77266,6,2022-06-08
+e3a9ef8d-a52f-4a29-bac8-0abfffad4367,mid_448,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,62362,6,2022-06-08
+c28b6ced-376b-4ca8-9b29-72d589810ce2,mid_398,iPhone,iPhone 14 Plus,iOS 13.3.1,v2.1.134,Appstore,66382,6,2022-06-08
+814ca294-bcee-4d9b-ac1b-f39c53582cab,mid_401,vivo,vivo x90,Android 13.0,v2.1.134,xiaomi,9266,1,2022-06-08
+bc86d538-588d-4adc-a53a-5124d25c2629,mid_151,realme,realme Neo2,Android 13.0,v2.1.134,oppo,55251,6,2022-06-08
+20594a75-8c75-4754-a520-91a65c2375de,mid_459,vivo,vivo IQOO Z6x ,Android 13.0,v2.1.134,360,85823,7,2022-06-08
+86169294-95aa-4435-a1b7-9003b68f6f8c,mid_423,xiaomi,xiaomi 12 ultra ,Android 11.0,v2.1.134,xiaomi,42225,4,2022-06-08
+540c50dc-6dfd-452a-9537-998d4b7a3393,mid_420,xiaomi,xiaomi 13,Android 13.0,v2.1.134,xiaomi,83174,7,2022-06-08
+5ec514b2-ec09-455c-937b-081ed1d4dba5,mid_353,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.132,wandoujia,76914,5,2022-06-08
+90fbea04-595b-4dcf-bdfb-fd5bcfaba160,mid_348,xiaomi,xiaomi 13 Pro ,Android 10.1,v2.1.134,360,57719,3,2022-06-08
+33aa5361-4e67-4f85-8c99-73cc8ba18e47,mid_136,OPPO,OPPO Oneplus 10,Android 10.1,v2.1.134,oppo,48635,4,2022-06-08
+cd76c271-e74e-48e8-b69c-992305adaf55,mid_142,xiaomi,xiaomi 13 Pro ,Android 12.0,v2.1.132,oppo,105470,7,2022-06-08
+ece3dbf4-18f9-4258-8554-8f0b6cd805ff,mid_90,iPhone,iPhone 14,iOS 13.2.3,v2.0.1,Appstore,33017,3,2022-06-08
+37769e4b-519a-4d71-a87a-1ff2398fb762,mid_131,Redmi,Redmi k50,Android 13.0,v2.1.132,xiaomi,28793,3,2022-06-08
+f1dca2d0-b2b4-43d8-845a-60086f2479b9,mid_68,xiaomi,xiaomi 13 Pro ,Android 13.0,v2.1.134,xiaomi,54666,5,2022-06-08
+cc68d286-7b5b-447a-a57d-1aa077daf536,mid_65,iPhone,iPhone 14 Plus,iOS 13.3.1,v2.1.134,Appstore,55785,6,2022-06-08
+e52e7a50-1bd7-4daa-a9e2-f131fde9aa5a,mid_325,Redmi,Redmi k50,Android 13.0,v2.1.134,oppo,35546,3,2022-06-08
+079dad48-a909-49d7-a23b-3b45617f7e84,mid_472,Redmi,Redmi k50,Android 12.0,v2.1.134,vivo,56864,6,2022-06-08
+f447217d-d552-493d-8a4a-d248853a631f,mid_162,OPPO,OPPO Oneplus 10,Android 10.1,v2.1.134,xiaomi,83659,7,2022-06-08
+694f1f03-68c8-4152-a33b-f60e148d4c8a,mid_242,Redmi,Redmi k50,Android 13.0,v2.1.134,oppo,96594,9,2022-06-08
+2ae6d5d4-0818-4cf6-a110-265718b4fde2,mid_360,vivo,vivo x90,Android 13.0,v2.1.134,web,59710,6,2022-06-08
+1e8f1928-51ea-418f-81e5-ff54f67555f4,mid_50,SAMSUNG,SAMSUNG Galaxy s22,Android 13.0,v2.1.134,web,99800,7,2022-06-08
+551974d4-8338-4e2c-9195-93aab8fb1474,mid_432,vivo,vivo IQOO Z6x ,Android 13.0,v2.1.134,oppo,70025,6,2022-06-08
+3c56f1bf-7fdb-4d4a-a0df-a8380a1f6e80,mid_72,iPhone,iPhone 14,iOS 13.2.3,v2.1.134,Appstore,85280,7,2022-06-08
+019e83b0-1617-4194-aafe-a1696d15ab00,mid_468,realme,realme Neo2,Android 13.0,v2.1.134,web,82168,6,2022-06-08
+1a55c6a7-0b72-45ac-9f73-08c07d0bb552,mid_240,xiaomi,xiaomi 13 Pro ,Android 13.0,v2.1.134,wandoujia,43331,3,2022-06-08
+48452ec2-b675-4871-9c7d-350036a53ab0,mid_449,realme,realme Neo2,Android 13.0,v2.1.132,web,31379,3,2022-06-08
+416a0d6f-6c47-4d46-ac21-e516ffe7969b,mid_278,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,167652,13,2022-06-08
+8d008a2a-7a4a-4ec8-aa59-c2c4a84f36fd,mid_338,OPPO,OPPO Remo8,Android 11.0,v2.1.134,web,36110,4,2022-06-08
+3ebf451c-5327-4824-ae0f-5b0927af4379,mid_97,xiaomi,xiaomi 12 ultra ,Android 12.0,v2.1.134,xiaomi,48146,5,2022-06-08
+2b9094d2-eb76-4a6b-b687-c85fa8911358,mid_65,Redmi,Redmi k50,Android 12.0,v2.0.1,oppo,150326,13,2022-06-08
+b305aa8c-744d-4b05-ae33-c584f30748fa,mid_332,vivo,vivo IQOO Z6x ,Android 13.0,v2.1.134,oppo,101764,7,2022-06-08
+dcceb295-d97e-4c96-b6ac-5b26b23e974b,mid_232,OPPO,OPPO Remo8,Android 13.0,v2.1.134,360,57967,5,2022-06-08
+f013d972-a1b5-49e7-8d6b-650b0d18adb1,mid_487,iPhone,iPhone 14 Plus,iOS 13.3.1,v2.1.134,Appstore,39276,3,2022-06-08
+3c2fdb0b-3f8f-4730-9047-d688395e6980,mid_368,iPhone,iPhone 14 Plus,iOS 13.3.1,v2.1.111,Appstore,66051,6,2022-06-08
+30591e60-2a01-41ee-bd5b-8770faba0472,mid_68,vivo,vivo x90,Android 13.0,v2.1.132,xiaomi,62573,7,2022-06-08
+19994a98-016b-4fd9-9eda-7b7229c248e9,mid_496,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.132,web,43718,4,2022-06-08
+c42928c7-00cb-45b4-9746-b1f91790b7c9,mid_271,iPhone,iPhone 14,iOS 13.3.1,v2.1.111,Appstore,32912,3,2022-06-08
+dc0da289-5a10-4494-b4ca-5784153375f5,mid_269,iPhone,iPhone 14,iOS 13.2.3,v2.1.134,Appstore,78866,7,2022-06-08
+d3aad5e0-37dc-40b4-8d28-b4680120db26,mid_302,SAMSUNG,SAMSUNG Galaxy s22,Android 13.0,v2.1.111,oppo,55170,5,2022-06-08
+75aa710c-e7eb-48fe-ba90-30a6cb7997fc,mid_69,iPhone,iPhone 13,iOS 13.2.3,v2.1.134,Appstore,83302,6,2022-06-08
+a8dfcf32-a083-42bc-b05e-8cdc9b254205,mid_138,iPhone,iPhone 13,iOS 13.3.1,v2.1.134,Appstore,132711,11,2022-06-08
+1f750dc1-929c-444c-981c-131962e76de0,mid_181,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.132,xiaomi,66168,7,2022-06-08
+1ca73180-d929-43d9-951e-15b20ccc88b6,mid_387,xiaomi,xiaomi 13,Android 11.0,v2.1.111,xiaomi,36710,4,2022-06-08
+3a20c582-1746-406c-a428-f632f554aec9,mid_30,OPPO,OPPO Remo8,Android 13.0,v2.1.134,xiaomi,79204,7,2022-06-08
+0056489c-c54e-435a-aeed-45685afcce24,mid_489,iPhone,iPhone 14,iOS 13.2.3,v2.1.134,Appstore,49294,3,2022-06-08
+0f85dd65-e3ca-4537-bac6-6d948c290e8f,mid_328,xiaomi,xiaomi 13,Android 13.0,v2.1.134,oppo,100281,8,2022-06-08
+e23cc43b-4cd9-48e2-8e0d-f365f68b84e7,mid_338,realme,realme Neo2,Android 13.0,v2.1.134,oppo,73163,6,2022-06-08
+60f69ddd-f9e7-4c2d-aa22-d40987020c59,mid_422,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.132,oppo,76258,5,2022-06-08
+45a38643-d7b7-4b64-8477-410b489fa36a,mid_448,iPhone,iPhone 14,iOS 13.3.1,v2.1.132,Appstore,49062,5,2022-06-08
+5cc8cd82-a976-45d4-ae21-e922e98584f0,mid_40,iPhone,iPhone 14,iOS 13.3.1,v2.1.132,Appstore,78121,6,2022-06-08
+2bd538e0-0ca8-4745-ae9c-1799d49a39f1,mid_76,OPPO,OPPO Remo8,Android 13.0,v2.1.132,xiaomi,90475,7,2022-06-08
+fea6d014-4fd4-4fe3-a4fb-ee8463b06a52,mid_247,iPhone,iPhone 14 Plus,iOS 13.3.1,v2.1.134,Appstore,80536,6,2022-06-08
+4bd9dd61-cdca-49b5-9a52-21be347f76de,mid_17,realme,realme Neo2,Android 12.0,v2.1.134,xiaomi,82688,7,2022-06-08
+b0ad3ff8-4e5c-49e1-9ea9-544fac36557d,mid_113,realme,realme Neo2,Android 13.0,v2.1.134,wandoujia,84072,7,2022-06-08
+d46f3e36-7b09-422f-809e-31c6938422d2,mid_394,iPhone,iPhone 13,iOS 13.3.1,v2.1.134,Appstore,83543,7,2022-06-08
+3026970d-7e6c-4e2e-a80d-58e1b7de291d,mid_64,iPhone,iPhone 13,iOS 13.2.3,v2.1.134,Appstore,69798,6,2022-06-08
+3b3b8da7-edcd-4d0d-b83a-f338f93f3670,mid_58,Redmi,Redmi k50,Android 11.0,v2.1.134,wandoujia,130900,9,2022-06-08
+2631f9b4-8cc4-4086-a001-eef017f699c3,mid_55,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.132,xiaomi,90745,7,2022-06-08
+bc9657a3-bc08-47fe-b564-294dc4ccc220,mid_473,iPhone,iPhone 14 Plus,iOS 12.4.1,v2.1.134,Appstore,80013,7,2022-06-08
+4048501a-f991-4942-8954-3c1c670392a5,mid_427,Redmi,Redmi k50,Android 13.0,v2.1.134,vivo,75641,6,2022-06-08
+3c4d9ddf-f1ea-46e6-b813-3d92c425ae1e,mid_272,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,75041,6,2022-06-08
+540098a4-d4a7-4073-927f-e0f55fa81fad,mid_66,OPPO,OPPO Remo8,Android 13.0,v2.1.134,wandoujia,73064,7,2022-06-08
+ea930e3b-0c93-4e1b-b4f2-69a519c70ff2,mid_420,Redmi,Redmi k50,Android 12.0,v2.1.134,web,51897,4,2022-06-08
+260a5e08-7260-44e8-a05a-72e0507f637a,mid_347,iPhone,iPhone 13,iOS 13.2.9,v2.1.134,Appstore,92396,9,2022-06-08
+5f5775ac-3123-4a84-a8ff-4698b8ab6bb8,mid_374,iPhone,iPhone 14 Plus,iOS 13.2.3,v2.1.111,Appstore,67639,5,2022-06-08
+6a255f6b-ef51-4e07-ad26-337042c9cea7,mid_15,xiaomi,xiaomi 13,Android 13.0,v2.1.132,oppo,87880,7,2022-06-08
+20fb7289-d750-4dfa-b2c7-268e37095c5b,mid_326,vivo,vivo x90,Android 12.0,v2.1.134,360,49421,3,2022-06-08
+d9949791-9ccc-4fc4-99ca-0fa5b9d25e82,mid_50,OPPO,OPPO Remo8,Android 13.0,v2.1.132,wandoujia,39898,4,2022-06-08
+e6046cc9-d654-4286-9a16-245fd1474229,mid_135,vivo,vivo x90,Android 13.0,v2.1.134,vivo,84845,7,2022-06-08
+0c7acd77-1b01-41f3-a810-ce3fb875dc39,mid_416,xiaomi,xiaomi 13 Pro ,Android 13.0,v2.1.134,oppo,55172,6,2022-06-08
+a1004d90-29d4-4ac8-b5c9-003c4d37b3a7,mid_493,xiaomi,xiaomi 13 Pro ,Android 13.0,v2.1.134,web,72705,5,2022-06-08
+72dd2146-cf5c-4dd7-a7ee-1a12d0dcfc18,mid_275,Redmi,Redmi k50,Android 12.0,v2.1.134,web,49480,6,2022-06-08
+9799c81d-47ca-4413-ad7e-12377df8b2f5,mid_387,xiaomi,xiaomi 12 ultra ,Android 10.1,v2.1.134,xiaomi,37145,3,2022-06-08
+58fe6976-5faa-4a58-aa14-e066d875349a,mid_208,OPPO,OPPO Oneplus 10,Android 13.0,v2.1.134,xiaomi,73766,5,2022-06-08
+5ce1e7a9-f8b2-4460-9948-8e7c9e54434f,mid_451,iPhone,iPhone 13,iOS 13.3.1,v2.1.134,Appstore,82936,7,2022-06-08
+abf8e541-07aa-4c33-934a-23ddec20eb2b,mid_371,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,53449,3,2022-06-08
+a633287e-0f67-4aa6-9072-2345b1194824,mid_427,Redmi,Redmi k50,Android 13.0,v2.1.132,360,97378,7,2022-06-08
+3f85e84d-d9ec-4eca-bcb6-8b429806d4e5,mid_450,vivo,vivo x90,Android 13.0,v2.1.132,web,46351,4,2022-06-08
+9f5d2e2d-5a29-4539-b95c-bef3457089af,mid_311,iPhone,iPhone 14,iOS 12.4.1,v2.1.134,Appstore,125104,11,2022-06-08
+a6f1096a-7335-496b-a257-010c51d09cbb,mid_267,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,135425,11,2022-06-08
+15a929d4-a585-45c3-a8f4-bf69ec650621,mid_295,realme,realme Neo2,Android 13.0,v2.1.134,oppo,50099,4,2022-06-08
+2e3bdecf-8b28-4913-a559-465978aecbf4,mid_223,iPhone,iPhone 13,iOS 13.3.1,v2.1.134,Appstore,37667,3,2022-06-08
+f31a878c-7c1d-41e6-b3c2-dcd6b1764886,mid_370,xiaomi,xiaomi 13,Android 13.0,v2.1.134,xiaomi,56317,4,2022-06-08
+4d6036ed-34fd-48b7-b672-8c4eff20bf32,mid_243,OPPO,OPPO Remo8,Android 13.0,v2.1.134,wandoujia,26823,3,2022-06-08
+c507a178-ce54-4248-b750-98967d302f47,mid_3,OPPO,OPPO Remo8,Android 12.0,v2.1.134,oppo,102648,8,2022-06-08
+2d08715e-5aa6-414f-9e80-bd6f13917137,mid_403,iPhone,iPhone 13,iOS 13.3.1,v2.1.134,Appstore,56143,4,2022-06-08
+457f3ac5-8682-42e7-8b16-4495baa00353,mid_492,vivo,vivo x90,Android 13.0,v2.1.134,oppo,81430,7,2022-06-08
+2840a1f6-d2e7-4621-88f7-af3f64b70fa2,mid_276,OPPO,OPPO Remo8,Android 13.0,v2.1.134,xiaomi,63913,5,2022-06-08
+a3ea87cd-7587-4300-9086-b08ec5b268ad,mid_413,vivo,vivo IQOO Z6x ,Android 13.0,v2.0.1,xiaomi,38624,3,2022-06-08
+2e90ca2d-20c8-49b0-9b72-126e613d661f,mid_280,realme,realme Neo2,Android 12.0,v2.1.134,xiaomi,74491,5,2022-06-08
+e52478ea-e97c-483c-a888-a8ea55604534,mid_384,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.134,web,36549,3,2022-06-08
+1a156396-9880-4df0-8539-bbd0e5af3dbc,mid_162,SAMSUNG,SAMSUNG Galaxy s22,Android 13.0,v2.1.132,web,171342,13,2022-06-08
+c0ebbf61-065e-49e1-87a2-45ee4fb2bd81,mid_232,vivo,vivo x90,Android 13.0,v2.1.134,web,82495,7,2022-06-08
+5d1a4431-25e6-423c-917d-aa05860d1aa6,mid_474,SAMSUNG,SAMSUNG Galaxy S21,Android 13.0,v2.1.134,xiaomi,75496,7,2022-06-08
+ef186aec-fa1d-41a5-90f1-fe7d4b4bd1b7,mid_355,xiaomi,xiaomi 13,Android 13.0,v2.1.134,xiaomi,61349,5,2022-06-08
+f942ccb7-e608-4697-ab9c-4885cbb5473c,mid_110,OPPO,OPPO Oneplus 10,Android 12.0,v2.1.134,oppo,71354,6,2022-06-08
+76303683-e045-444d-b2b6-950547b999c7,mid_85,iPhone,iPhone 14 Plus,iOS 13.3.1,v2.1.134,Appstore,97039,9,2022-06-08
+0c538269-818d-466a-bbbf-701085395516,mid_104,Redmi,Redmi k50,Android 13.0,v2.1.134,oppo,106527,7,2022-06-08
+aa19e40d-fd8d-48f5-bce9-956e8efacfb6,mid_365,OPPO,OPPO Remo8,Android 13.0,v2.1.134,xiaomi,81967,7,2022-06-08
+39cfcf4e-834c-4f3a-95a8-90fc5949430a,mid_156,realme,realme Neo2,Android 10.1,v2.1.132,oppo,46088,3,2022-06-08
+14c055fa-bd5d-4670-b80d-b8fb084dbffe,mid_380,vivo,vivo x90,Android 12.0,v2.1.134,oppo,79166,8,2022-06-08
+66dc3d36-6e9c-4a20-ad1e-447ff6f4077a,mid_485,iPhone,iPhone 13,iOS 13.3.1,v2.1.134,Appstore,124430,11,2022-06-08
+aa887e34-f3ef-4d2d-889b-049947943827,mid_194,SAMSUNG,SAMSUNG Galaxy S21,Android 13.0,v2.1.111,oppo,62868,6,2022-06-08
+60c14794-deb1-42f8-a31d-9473c8e42258,mid_207,realme,realme Neo2,Android 13.0,v2.1.132,oppo,24085,3,2022-06-08
+21b3cc61-180a-4f1b-b17d-750e17c8e488,mid_176,realme,realme Neo2,Android 13.0,v2.1.134,360,59232,6,2022-06-08
+8881ca6e-0658-4112-adeb-244746300188,mid_181,realme,realme Neo2,Android 13.0,v2.1.132,oppo,52484,5,2022-06-08
+efd9bc75-27cb-4172-9aeb-9fcf6644fe7e,mid_1,OPPO,OPPO Oneplus 10,Android 11.0,v2.1.134,oppo,76454,6,2022-06-08
+551105a6-a0e7-44f6-9635-ffad8c49f7d6,mid_414,iPhone,iPhone 14,iOS 13.2.3,v2.1.134,Appstore,41015,4,2022-06-08
+74936dd6-41e3-4075-ac65-55f954df5c5c,mid_361,SAMSUNG,SAMSUNG Galaxy S21,Android 13.0,v2.1.134,xiaomi,32015,3,2022-06-08
+ae80b338-3b4c-4759-8767-1c13aab4c822,mid_359,vivo,vivo IQOO Z6x ,Android 10.1,v2.1.132,web,121286,11,2022-06-08
+5287b091-f758-41c3-9af3-d688442708fd,mid_390,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.0.1,wandoujia,90017,7,2022-06-08
+9f535b8c-0529-465f-b713-4769007a453e,mid_256,xiaomi,xiaomi 13 Pro ,Android 12.0,v2.1.132,oppo,114627,7,2022-06-08
+7741c106-73ea-46c3-9f5b-9a3ec84fb9b6,mid_312,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,108731,9,2022-06-08
+3d751db9-e156-4513-8b14-196e5deed849,mid_281,Redmi,Redmi k50,Android 13.0,v2.1.134,xiaomi,63867,6,2022-06-08
+0b8ec220-9bb1-4593-838c-3dbeea8c6acc,mid_112,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.134,xiaomi,100584,8,2022-06-08
+edb6156d-ff28-4ba2-8ec7-a0c51d6d6ddf,mid_31,xiaomi,xiaomi 13 Pro ,Android 13.0,v2.1.134,web,52998,5,2022-06-08
+7e4a4245-8405-4b7d-a9d3-b122cdd097d1,mid_187,xiaomi,xiaomi 13,Android 13.0,v2.1.132,xiaomi,75990,6,2022-06-08
+855ae1d0-2c4a-40e1-9b6f-123ac13f2539,mid_480,iPhone,iPhone 13,iOS 13.3.1,v2.1.134,Appstore,43821,3,2022-06-08
+ff7dd90c-7178-47d5-a2f1-300c769f4aec,mid_395,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.134,oppo,68199,7,2022-06-08
+2e77821b-cb2f-4c13-b28c-b20163868504,mid_351,iPhone,iPhone 13,iOS 13.2.3,v2.1.134,Appstore,92638,9,2022-06-08
+26c44214-1530-46c3-8b34-116e3437e162,mid_280,vivo,vivo x90,Android 11.0,v2.1.132,xiaomi,30041,3,2022-06-08
+a8e6d595-00d5-44bd-9535-b4221ef71211,mid_166,SAMSUNG,SAMSUNG Galaxy s22,Android 12.0,v2.1.134,wandoujia,55472,5,2022-06-08
+b4bc3767-107d-4e27-88c7-aa289125eb86,mid_349,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.134,360,41200,4,2022-06-08
+99b3e2fd-0470-4040-b563-2f76a8baccc7,mid_427,realme,realme Neo2,Android 13.0,v2.1.134,oppo,77049,7,2022-06-08
+a38a8c41-dbe8-4b8f-ae20-a1aa24c85079,mid_374,vivo,vivo IQOO Z6x ,Android 13.0,v2.1.111,xiaomi,45529,4,2022-06-08
+a7a29012-6852-4c88-a38a-e6160a2f5690,mid_433,SAMSUNG,SAMSUNG Galaxy s22,Android 12.0,v2.1.134,xiaomi,69256,6,2022-06-08
+d81673aa-5db0-4a0b-8720-96319fcceab5,mid_200,realme,realme Neo2,Android 13.0,v2.1.134,vivo,38084,3,2022-06-08
+c6c5d979-1929-4001-abb5-33a05feef860,mid_21,vivo,vivo IQOO Z6x ,Android 13.0,v2.1.134,xiaomi,73204,7,2022-06-08
+d8841844-d05e-424d-a675-1787f2033977,mid_183,realme,realme Neo2,Android 13.0,v2.1.134,vivo,40336,3,2022-06-08
+032d4192-a41a-4e14-9cef-478bd3d32ebe,mid_234,OPPO,OPPO Remo8,Android 12.0,v2.1.134,xiaomi,102588,7,2022-06-08
+4e57e164-a7cc-4c1f-b43d-091066b57058,mid_483,iPhone,iPhone 14,iOS 13.2.9,v2.1.134,Appstore,48534,5,2022-06-08
+fad7cecd-3787-4040-8d31-39249403c0c6,mid_155,Redmi,Redmi k50,Android 13.0,v2.1.134,web,80402,6,2022-06-08
+3c6d92b7-2093-4d4f-b017-1fd8d13d4b55,mid_184,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,63668,5,2022-06-08
+84e908e2-8d2b-4c2c-9aaf-906c449e9bc0,mid_204,vivo,vivo IQOO Z6x ,Android 13.0,v2.1.132,xiaomi,108893,8,2022-06-08
+a001cc77-4fe4-4d03-86ac-ba24f8729a94,mid_446,realme,realme Neo2,Android 13.0,v2.1.134,web,140334,11,2022-06-08
+b95ff54f-9c9e-41af-b5f1-02b45d2af0fc,mid_467,vivo,vivo IQOO Z6x ,Android 13.0,v2.0.1,xiaomi,60414,7,2022-06-08
+1a7c0e9c-6ed7-49b7-8afc-9c54e72aa519,mid_478,iPhone,iPhone 13,iOS 13.3.1,v2.1.132,Appstore,88920,6,2022-06-08
+b6e3359f-0cb8-48cc-9056-e837efc8891a,mid_93,OPPO,OPPO Remo8,Android 13.0,v2.1.134,xiaomi,63011,5,2022-06-08
+86f282ab-aee5-431c-a204-448be69b36d3,mid_433,vivo,vivo x90,Android 10.1,v2.1.134,wandoujia,44924,3,2022-06-08
+9c08f639-31c8-4bf5-b309-a887edada17f,mid_38,vivo,vivo IQOO Z6x ,Android 13.0,v2.1.134,oppo,68810,6,2022-06-08
+4b57c5c3-7cf5-4fc1-b661-8b2ca7a0b1e3,mid_157,iPhone,iPhone 13,iOS 13.3.1,v2.1.132,Appstore,41621,3,2022-06-08
+d70b8a7a-8a2a-4637-aa8b-4b388034b39e,mid_79,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,83261,7,2022-06-08
+d955b5b0-af9a-4f80-915d-0bac8802fbaa,mid_47,iPhone,iPhone 14,iOS 13.3.1,v2.1.132,Appstore,94152,7,2022-06-08
+37f21ff9-fcdf-4050-a4d4-e107a4316c78,mid_417,realme,realme Neo2,Android 13.0,v2.1.134,360,71858,8,2022-06-08
+913b25d2-9f3b-41c4-b59f-5008457b0b79,mid_145,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,92722,7,2022-06-08
+a4085594-22f0-4206-8ed7-fd580e4a98a1,mid_165,iPhone,iPhone 14,iOS 13.2.3,v2.1.134,Appstore,119807,9,2022-06-08
+1bcba6c3-a79e-4d57-8351-149e43a4dcc6,mid_6,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,137911,11,2022-06-08
+59c3d83f-eb81-4455-ad58-7dfd71ac7e21,mid_487,xiaomi,xiaomi 12 ultra ,Android 12.0,v2.1.134,xiaomi,79929,7,2022-06-08
+c6c69ec4-947f-44b0-bd5a-48e4e3230077,mid_492,vivo,vivo x90,Android 13.0,v2.1.134,xiaomi,67678,6,2022-06-08
+268444e3-9b4a-4102-ba6f-dc21758f3511,mid_323,iPhone,iPhone 14,iOS 13.2.9,v2.0.1,Appstore,85702,7,2022-06-08
+04c506ed-dd41-4913-b895-7717f9ae77d5,mid_340,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.134,xiaomi,68991,6,2022-06-08
+c64ba34f-a473-43a9-967d-654e2f548942,mid_36,iPhone,iPhone 13,iOS 13.3.1,v2.1.134,Appstore,69731,6,2022-06-08
+d954ae79-2a21-4433-bb3d-a30379549acb,mid_6,realme,realme Neo2,Android 12.0,v2.1.134,xiaomi,37468,4,2022-06-08
+b16b22d5-8f36-4672-9cc3-fa775a240237,mid_114,iPhone,iPhone 14,iOS 13.2.3,v2.1.132,Appstore,64888,5,2022-06-08
+1d0f6468-8fd8-4612-b132-073a67052756,mid_265,iPhone,iPhone 14,iOS 13.2.3,v2.1.134,Appstore,90530,7,2022-06-08
+ef1a32f0-f0b3-4c49-a568-9754d5882e39,mid_164,OPPO,OPPO Remo8,Android 13.0,v2.1.132,xiaomi,60576,5,2022-06-08
+f477dc06-ea9c-4220-b6a0-0aea2a56ce9a,mid_390,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.132,wandoujia,39075,4,2022-06-08
+9aa42a78-b6dc-4ba4-83d0-c10fd5f68d6a,mid_72,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,74063,6,2022-06-08
+6115e03a-d9a0-45cc-a6e9-56e34713652d,mid_298,vivo,vivo IQOO Z6x ,Android 13.0,v2.1.134,360,103085,7,2022-06-08
+0a8a29f2-8984-4791-b255-42af2791a1b2,mid_5,iPhone,iPhone 13,iOS 13.3.1,v2.1.134,Appstore,66351,5,2022-06-08
+0ae36c4d-dfda-430f-81df-56c7b5b13af6,mid_246,vivo,vivo x90,Android 13.0,v2.1.134,xiaomi,95622,7,2022-06-08
+9f4e8d20-9fc3-408b-b6f4-ecbb0d16903a,mid_425,iPhone,iPhone 14 Plus,iOS 12.4.1,v2.1.134,Appstore,89883,7,2022-06-08
+cba6cfed-a058-458f-b2b9-1fd7fbc112b0,mid_298,xiaomi,xiaomi 13,Android 13.0,v2.1.134,oppo,47519,3,2022-06-08
+ac4deaec-67cd-42b4-a7e0-eceaf6069d80,mid_220,realme,realme Neo2,Android 13.0,v2.1.134,wandoujia,81281,7,2022-06-08
+8aacc972-7847-4458-86fb-7f31a7594870,mid_400,Redmi,Redmi k50,Android 13.0,v2.1.134,xiaomi,28302,3,2022-06-08
+07853694-d3a4-480f-8223-3ecacb3c3554,mid_260,iPhone,iPhone 14,iOS 13.2.3,v2.1.134,Appstore,107293,9,2022-06-08
+697f116d-f0ff-4bf0-9875-03f65dbefd67,mid_331,SAMSUNG,SAMSUNG Galaxy S21,Android 13.0,v2.1.132,xiaomi,60482,5,2022-06-08
+41050e82-6505-4463-adc8-dfdba0e441a0,mid_156,iPhone,iPhone 14 Plus,iOS 13.3.1,v2.1.111,Appstore,67939,6,2022-06-08
+a08e954e-2db4-4381-8048-9d851129a5e5,mid_85,iPhone,iPhone 14 Plus,iOS 13.2.9,v2.1.134,Appstore,68097,6,2022-06-08
+247121d6-de17-4c46-bac6-3a13a48b1fac,mid_200,vivo,vivo IQOO Z6x ,Android 13.0,v2.1.134,vivo,92990,9,2022-06-08
+759c7d1b-dbb5-4ba4-9cb0-b5984fbd006e,mid_68,realme,realme Neo2,Android 13.0,v2.1.132,wandoujia,120474,9,2022-06-08
+525e5b57-03e6-4aeb-8961-7fcb790fb37e,mid_345,Redmi,Redmi k50,Android 13.0,v2.1.134,vivo,80408,7,2022-06-08
+fcb7251c-257f-4d12-8528-8affe0cb9e8f,mid_150,vivo,vivo x90,Android 13.0,v2.1.134,oppo,50569,4,2022-06-08
+91dfb42a-2817-4e20-9fe2-5f365e0c698f,mid_250,xiaomi,xiaomi 12 ultra ,Android 13.0,v2.1.134,xiaomi,29804,3,2022-06-08
+3c2583a3-b8a7-4437-9fc1-497efd3f982e,mid_67,iPhone,iPhone 14,iOS 13.2.9,v2.1.132,Appstore,62060,5,2022-06-08
+eb36aa2c-4a91-4e43-a89c-78890f1cc09b,mid_244,xiaomi,xiaomi 13 Pro ,Android 13.0,v2.1.134,wandoujia,74952,7,2022-06-08
+48c6932d-3933-479a-8b20-be5b6c7f85ea,mid_468,iPhone,iPhone 14,iOS 13.2.3,v2.1.134,Appstore,61464,5,2022-06-08
+6e874c0a-ec13-49cb-b16d-c290a0e99c5c,mid_392,iPhone,iPhone 14,iOS 13.3.1,v2.1.134,Appstore,108122,9,2022-06-08
